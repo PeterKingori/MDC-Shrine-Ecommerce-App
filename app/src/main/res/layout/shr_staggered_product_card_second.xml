@@ -13,7 +13,6 @@
         android:layout_width="@dimen/shr_staggered_product_grid_card_width_landscape"
         android:layout_height="wrap_content"
         android:layout_marginEnd="@dimen/shr_staggered_product_grid_spacing_small"
-        android:layout_marginRight="@dimen/shr_staggered_product_grid_spacing_small"
         android:orientation="vertical">
 
         <com.android.volley.toolbox.NetworkImageView
